@@ -7,7 +7,7 @@ Create a basic Phaser game with WebSocket connectivity for real time server to c
 1. Clone this repository.
     * `git clone hhttps://github.com/sandipsahajoy/CMPUT404-Lab8.git`
 2. Change the working directory into this directory
-    * `cd CMPUT404-Lab8`
+    * `cd nodejs-ws-lab`
 3. Install the node dependencies.
     * `npm install`
 4. Start the application.
